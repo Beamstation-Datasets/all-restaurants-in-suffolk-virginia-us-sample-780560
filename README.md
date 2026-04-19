@@ -9,9 +9,9 @@
 | Dataset ID | `780560` |
 | Location | Suffolk |
 | Category | Restaurants |
-| Full dataset size | 287 records |
-| Free sample size | 28 records (9.76%) |
-| Last export | 2026-04-09T13:27:02.406062+00:00 |
+| Full dataset size | 285 records |
+| Free sample size | 28 records (9.82%) |
+| Last export | 2026-04-16T13:53:04.506772+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-suffolk-virginia-us-sample-780560/releases/download/sample-latest/beamstation_780560_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
