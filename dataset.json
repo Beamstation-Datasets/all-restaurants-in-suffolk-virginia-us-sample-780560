@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Suffolk, Virginia. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Suffolk, Virginia, US",
-  "export_job_id": "fbf3d7b7-a71b-44e7-8ecd-3398391f7909",
+  "export_job_id": "c0c7ae3e-3043-4ec7-9136-e4a239ad9885",
   "github_org": "Beamstation-Datasets",
   "id_short": 780560,
   "location_name": "Suffolk",
   "location_type": "city",
   "repo_name": "all-restaurants-in-suffolk-virginia-us-sample-780560",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/780560/beamstation_780560_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_pct": 9.76,
+  "sample_pct": 9.82,
   "sample_records": 28,
   "sample_sha256": "ef9021acf440029de636872dfcbafb13f9ea980f29e000448b8967d2e644981f",
   "sample_size_bytes": 86865,
-  "total_records": 287,
-  "updated_at": "2026-04-09T13:27:02.406062+00:00"
+  "total_records": 285,
+  "updated_at": "2026-04-16T13:53:04.506772+00:00"
 }
