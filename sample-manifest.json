@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5abc9528-84c7-4bc5-b298-e9f289ad107f",
+  "export_job_id": "c2d1c68f-c992-4b74-a12f-cbd64e7281b6",
   "id_short": 780560,
-  "published_at": "2026-04-23T19:38:52Z",
+  "published_at": "2026-04-30T19:33:16Z",
   "repo_name": "all-restaurants-in-suffolk-virginia-us-sample-780560",
   "sample_asset_name": "beamstation_780560_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/780560/beamstation_780560_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "3b28c0a56056eb5f129812ba111d2af9132997923e13603ea349e6d64c940342",
-  "sample_size_bytes": 54298,
-  "total_records": 160
+  "sample_records": 30,
+  "sample_sha256": "0766228aa2feeae6ef6eb4863edb3c726d4c1ce3e03148e53f3c0dff6a0740f3",
+  "sample_size_bytes": 123382,
+  "total_records": 301
 }
